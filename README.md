@@ -6,11 +6,11 @@ Like the name of this project, I have made a  card game and the rules are rather
 
 - starting interface
 
-  ![image-20210517000225202](\images_de_projet\image-20210517000225202.png)
+  ![image-20210517000225202](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/image_de_projet/image-20210517000225202.png)
 
 - Setting interface
 
-  ![image-20210517000303407](\images_de_projet\image-20210517000303407.png)
+  ![image-20210517000303407](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/image_de_projet/image-20210517000303407.png)
 
 - Playing interface
 
