@@ -39,32 +39,32 @@ And it's possible to play in the terminal and in the graphic interface in the sa
 
 
 
-- Strategy
+  - Strategy
 
-  ... used for building the virtual players which has three levels of difficulties.
+    ... used for building the virtual players which has three levels of difficulties.
 
-  file : 
-  > - [Com-easy.java](https://github.com/therealdarkflamemaster/Java_card_game/blob/master/src/Livrable_1/Com_easy.java)
-  > - [Com_normal.java](https://github.com/therealdarkflamemaster/Java_card_game/blob/master/src/Livrable_1/Com_normal.java)
-  > - [Com_impossible.java](https://github.com/therealdarkflamemaster/Java_card_game/blob/master/src/Livrable_1/Com_impossible.java)
-
-
-
-
-- Singleton
-
-  ... used for many classes to keep the changes in memory like the the card deck which is the distributor of the cards.
-
-  file : [Draw_deck.java](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/src/CARD/Draw_deck.java) 
-  
+    file : 
+    > - [Com-easy.java](https://github.com/therealdarkflamemaster/Java_card_game/blob/master/src/Livrable_1/Com_easy.java)
+    > - [Com_normal.java](https://github.com/therealdarkflamemaster/Java_card_game/blob/master/src/Livrable_1/Com_normal.java)
+    > - [Com_impossible.java](https://github.com/therealdarkflamemaster/Java_card_game/blob/master/src/Livrable_1/Com_impossible.java)
 
 
 
-- Iterator
 
-  ... used for traverse all the Collections used in the project
+  - Singleton
 
-  file : [Draw_deck.java](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/src/CARD/Draw_deck.java) 
+    ... used for many classes to keep the changes in memory like the the card deck which is the distributor of the cards.
+
+    file : [Draw_deck.java](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/src/CARD/Draw_deck.java) 
+
+
+
+
+  - Iterator
+
+    ... used for traverse all the Collections used in the project
+
+    file : [Draw_deck.java](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/src/CARD/Draw_deck.java) 
 
 
 
