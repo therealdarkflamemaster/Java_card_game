@@ -6,17 +6,17 @@ Like the name of this project, I have made a  card game and the rules are rather
 
 - starting interface
 
-  ![image-20210517000225202](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/image_de_projet/image-20210517000225202.png)
+  ![image-20210517000225202](https://raw.githubusercontent.com/therealdarkflamemaster/Java_card_game/master/image_de_projet/image-20210517000225202.png)
 
 - Setting interface
 
-  ![image-20210517000303407](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/image_de_projet/image-20210517000303407.png)
+  ![image-20210517000303407](https://raw.githubusercontent.com/therealdarkflamemaster/Java_card_game/master/image_de_projet/image-20210517000303407.png)
 
 - Playing interface
 
-  ![image-20210517000326060](\images_de_projet\image-20210517000326060.png)
+  ![image-20210517000326060](https://raw.githubusercontent.com/therealdarkflamemaster/Java_card_game/master/image_de_projet/image-20210517000326060.png)
 
-  ![image-20210517000359605](\images_de_projet\image-20210517000359605.png)
+  ![image-20210517000359605](https://raw.githubusercontent.com/therealdarkflamemaster/Java_card_game/master/image_de_projet/image-20210517000359605.png)
 
 ## Introduction
 
@@ -34,7 +34,8 @@ And it's possible to play in the terminal and in the graphic interface in the sa
 
       ... used for calculate the score of each player. After each round of game, the class of `Visitor` will visit each player's hand cards and calculate their score of this round.
 
-      file : /src/CARD/VisitordeJest.java
+      file : [VisitordeJest.java](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/src/CARD/VisitordeJest.java)
+      
 
 
 
@@ -42,7 +43,11 @@ And it's possible to play in the terminal and in the graphic interface in the sa
 
   ... used for building the virtual players which has three levels of difficulties.
 
-  file : /src/Liverable_1/Com-easy.java & Com_impossible.java & Com_normal.java
+  file : 
+  > - [Com-easy.java](https://github.com/therealdarkflamemaster/Java_card_game/blob/master/src/Livrable_1/Com_easy.java)
+  > - [Com_normal.java](https://github.com/therealdarkflamemaster/Java_card_game/blob/master/src/Livrable_1/Com_normal.java)
+  > - [Com_impossible.java](https://github.com/therealdarkflamemaster/Java_card_game/blob/master/src/Livrable_1/Com_impossible.java)
+
 
 
 
@@ -50,7 +55,8 @@ And it's possible to play in the terminal and in the graphic interface in the sa
 
   ... used for many classes to keep the changes in memory like the the card deck which is the distributor of the cards.
 
-  file : /src/CARD/Draw_deck.java
+  file : [Draw_deck.java](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/src/CARD/Draw_deck.java) 
+  
 
 
 
@@ -58,7 +64,7 @@ And it's possible to play in the terminal and in the graphic interface in the sa
 
   ... used for traverse all the Collections used in the project
 
-  file : /src/CARD/Draw_deck.java
+  file : [Draw_deck.java](https://github.com/therealdarkflamemaster/Java_card_game/tree/master/src/CARD/Draw_deck.java) 
 
 
 
@@ -68,24 +74,24 @@ And it's possible to play in the terminal and in the graphic interface in the sa
 
   example :
 
-  ![image-20210517001122174](\images_de_projet\image-20210517001122174.png)
+  ![image-20210517001122174](https://raw.githubusercontent.com/therealdarkflamemaster/Java_card_game/master/image_de_projet/image-20210517001122174.png)
 
 - **VMC structure**
 
-  ![image-20210517000632899](\images_de_projet\image-20210517000632899.png)
+  ![image-20210517000632899](https://raw.githubusercontent.com/therealdarkflamemaster/Java_card_game/master/image_de_projet/image-20210517000632899.png)
 
 - **Multi-Thread**
 
-  ![image-20210517001255824](\images_de_projet\image-20210517001255824.png)
+  ![image-20210517001255824](https://raw.githubusercontent.com/therealdarkflamemaster/Java_card_game/master/image_de_projet/image-20210517001255824.png)
 
 ## Resources
 
 - UML of classes
 
-  ![img](\images_de_projet\Diag_class_uml.jpg)
+  ![img](https://raw.githubusercontent.com/therealdarkflamemaster/Java_card_game/master/image_de_projet/Diag_class_uml.jpg)
 
 - Rules
 
-  ![image-20210517000058940](\images_de_projet\image-20210517000058940.png)
+  ![image-20210517000058940](https://raw.githubusercontent.com/therealdarkflamemaster/Java_card_game/master/image_de_projet/image-20210517000058940.png)
 
   >  copy right of the rule belongs to www.goodlittlegames.co.uk
